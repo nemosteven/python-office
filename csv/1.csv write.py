@@ -1,6 +1,4 @@
-# 夜幕：电子科技大学
-# 星辰：2022年02月18日 8:06
-# 烛光：陈照青
+
 
 # Class reader and writer are used
 import csv
