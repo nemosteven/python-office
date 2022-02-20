@@ -1,5 +1,3 @@
-
-
 # Class reader and writer are used
 import csv
 
